@@ -4,7 +4,7 @@ Alkalmazás fejlesztés I. Kötelező program
 Az alkalmazás Maven Build rendszer és Javafx valamint JSP-vel lett megvalósítva.
 Az alkalmazás minden követelményt megvalósított.
 
-#Leírás/Features
+Leírás/Features
 
 Egy chat alkalmazás létre hozása volt a feladat, a program asztali felülete kilistázza az adatbázisban lévő usereket valamint chat szobákat
 és ezeket lehet törölni onnan.
@@ -15,7 +15,7 @@ kilistázza az összes user és chat szobát, ezeknek van egy keresőjük.
 Ezen belül beléphetünk egy chat szobába ahol meg van jelenítve az adott chat szoba tartalma, ahol képeket valamint szöveget küldhetünk.
 Amit elment az adatbázisba és frissítéskor automatikusan látthatjuk.
 
-#Megvalósítás / Extra beállítások
+Megvalósítás / Extra beállítások
   -application.properties fájla szükséges megadni az adatbázis elérésí utját
   -Input a chatnél egy 3rd party javascript libraryval lett megvalósítva Quill-el, 
   valamint emojit úgy küldhetünk hogy jobb klikkelünk az inputra és hangulatjel kiválaszatása ez nem saját feature de müködik így is meg elmenti rendesen
